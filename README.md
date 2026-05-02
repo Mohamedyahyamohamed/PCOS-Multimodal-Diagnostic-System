@@ -33,4 +33,4 @@ The diagnostic engine is exposed via a primary endpoint:
 ## Author
 **Mohamed Yahya**  
 AI Engineer & Data Scientist  
-[[LinkedIn Profil](https://www.linkedin.com/in/mohamedyahyamohamed/)] | [[GitHub Profil](https://github.com/Mohamedyahyamohamed)]
+[[LinkedIn Profile](https://www.linkedin.com/in/mohamedyahyamohamed/)] | [[GitHub Profile](https://github.com/Mohamedyahyamohamed)]
